@@ -1,2 +1,2 @@
 # cs572_project
-Lost&amp;Found Board, useing angular, node.js&amp;mongoDB
+Lost&amp;Found Board, using angular, node.js&amp;mongoDB
